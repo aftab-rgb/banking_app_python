@@ -1,0 +1,7 @@
+deposited 10.0 		 balance 60.0
+withdrew 10.0 		 balance 50.0
+withdrew 10.0 		 balance 40.0
+deposited 10.0 		 balance 60.0
+withdrew 20.0 		 balance 40.0
+deposited 100.0 		 balance 150.0
+withdrew 100.0 		 balance 50.0
